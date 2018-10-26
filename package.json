@@ -15,5 +15,18 @@
   "bugs": {
     "url": "https://github.com/katho/MEAN_demo/issues"
   },
-  "homepage": "https://github.com/katho/MEAN_demo#readme"
+  "homepage": "https://github.com/katho/MEAN_demo#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.3",
+    "connect-multiparty": "^2.2.0",
+    "express": "^4.16.4",
+    "jwt-simple": "^0.5.5",
+    "moment": "^2.22.2",
+    "mongoose": "^5.3.7",
+    "mongoose-pagination": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.5"
+  }
 }
